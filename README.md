@@ -5,10 +5,14 @@ In this project created with P5js you will be able to interact with your laptop'
 ## Instructions:
 
 ### Left hand:
-1 finger = deep color change from gray to black
-2 finger = add circles
-3 finger = draw circles
-4 finger = background color change from black to gray
+#### 1 finger
+Deep color change from gray to black
+#### 2 finger
+Add circles
+#### 3 finger
+Draw circles
+#### 4 finger
+Background color change from black to gray
 
 ### Right hand:
 #### First state finger 2:
@@ -26,6 +30,7 @@ On the right is circle 1 with a white stroke and on the right is a randomly pain
 #### Third state finger 4:
 In this mode only the rectangles are unpainted inside. Growing up small and big.
 
-
+## Link
+[Create your art!!](https://editor.p5js.org/oriolroviracodina/sketches/VjwYNo6gs)
 ## Social Media
 [Linkedin](https://www.linkedin.com/in/oriol-rovira-codina-833317121/)
