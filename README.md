@@ -2,7 +2,7 @@
 
 In this project created with P5js you will be able to interact with your laptop's camera, in order to create generative art with your fingers when performing different actions.
 
-Instructions:
+# Instructions:
 
 Left hand:
 1 finger = deep color change from gray to black
