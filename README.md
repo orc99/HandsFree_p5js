@@ -26,4 +26,6 @@ On the right is circle 1 with a white stroke and on the right is a randomly pain
 Third finger 4:
 In this mode only the rectangles are unpainted inside. Growing up small and big.
 
-[Link to Google](https://www.google.com)
+
+# Social Media
+[Linkedin](https://www.linkedin.com/in/oriol-rovira-codina-833317121/)
