@@ -1,7 +1,7 @@
 # HandsFree
 
 In this project created with P5js you will be able to interact with your laptop's camera, in order to create generative art with your fingers when performing different actions.
-
+![HandsFree](https://github.com/orc99/HandsFree_p5js/blob/main/Hands_Codi_Bo_2021_11_18_20_05_47/HandsFree.png)
 ## Instructions:
 
 ### Left hand:
